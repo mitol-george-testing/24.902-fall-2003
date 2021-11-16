@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Philosophy of Language"
+    ],
+    [
+      "Humanities",
+      "Linguistics",
+      "Syntax"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "40092009-2bc0-8981-e903-0cd5a169a912"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Language and its Structure II: Syntax",
+  "course_description": "This course will acquaint you with some of the important results and ideas of the last half - century of research in syntax. We will explore a large number of issues and a large amount of data so that you can learn something of what this field is all about. From time to time, we will discuss related work in language acquisition and processing. The class will emphasize ideas and arguments for these ideas in addition to the the details of particular analyses. At the same time, you will learn the mechanics of one particular approach (sometimes called Principles and Parameters syntax).\n\nMost of all, the course tries to show why the study of syntax is exciting, and why its results are important to researchers in other language sciences. The class assumes some familiarity with basic concepts of theoretical linguistics, of the sort you could acquire in\u00a0[24.900](/courses/24-900-introduction-to-linguistics-fall-2012/).\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.902",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Problem Sets with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
